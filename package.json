@@ -2,6 +2,7 @@
   "name": "yasin-number-guessing-game",
   "version": "1.0.0",
   "description": "Number Guessing Game",
+  "homepage": "https://github.com/MuhammadYasinSaleem/number-guessing-game#readme",
   "main": "game.js",
   "type": "module",
   "bin": "./game.js",
