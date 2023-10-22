@@ -28,7 +28,7 @@ async function call() {
 
         }
     })
-    const num = Math.floor(Math.random() * 10);
+    const num = Math.floor(Math.random() * 50);
     if (ans.no == num) {
         console.log(chalk.bgBlueBright(num + " is the correct number"));
         console.log(`${chalk.blueBright('Congratulations You guessed the correct number')} `);
